@@ -22,8 +22,8 @@ Briefium is a FREE AI-powered content intelligence platform purpose-built for th
 
 ## 📬 Contact & Community
 
-Questions, feedback, or partnership inquiries?  
-Reach out via [GitHub Issues](https://github.com/orgs/Briefium/discussions) or connect with us on X/Twitter.
+Questions, feedback, improvement ideas?
+Reach out via email or connect with us on X/Twitter.
 
 Links:
 - Briefium: https://briefium.com
