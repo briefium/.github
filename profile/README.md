@@ -1,9 +1,5 @@
 # Briefium
 
-**Briefium** is a FREE AI-powered content intelligence platform built for the Hedera Hashgraph ecosystem.
-
-## 🚀 Elevator Pitch
-
 Briefium is a FREE AI-powered content intelligence platform purpose, built for the Hedera Hashgraph ecosystem. Our smart AI editorial crew is always on the lookout, continuously monitoring 50+ trusted RSS news sources to instantly aggregate and summarize the latest market data, developer updates, and partnership announcements. Every headline is distilled into clear, actionable highlights, so Hedera developers, HBAR investors, and blockchain professionals get the context and insight they need, without the noise. From headlines to highlights, Briefium makes following Hedera simple, smart, and fast.
 
 ## 🌟 Key Features
